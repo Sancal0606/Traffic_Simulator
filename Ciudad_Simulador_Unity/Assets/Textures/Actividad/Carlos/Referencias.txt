@@ -1,0 +1,17 @@
+Asfalto1: https://www.sketchuptextureclub.com/textures/architecture/roads/asphalt-damaged/damaged-asphalt-texture-seamless-07313
+Asfalto2: https://www.sketchuptextureclub.com/textures/architecture/roads/asphalt-damaged/damaged-asphalt-texture-seamless-07332
+Asfalto3: https://www.sketchuptextureclub.com/textures/architecture/roads/roads/highway-road-pbr-texture-seamless-demo-21879
+Asfalto4: https://www.sketchuptextureclub.com/textures/architecture/roads/roads/highway-road-pbr-texture-seamless-21876
+
+Edificio1: https://www.sketchuptextureclub.com/textures/architecture/bricks/facing-bricks/smooth/facing-smooth-bricks-texture-seamless-21367
+Edificio2: https://www.sketchuptextureclub.com/textures/architecture/bricks/facing-bricks/smooth/facing-smooth-bricks-texture-seamless-20801
+Edificio3: https://www.sketchuptextureclub.com/textures/architecture/buildings/residential-buildings/residential-building-texture-seamless-18242
+Edificio4: https://www.sketchuptextureclub.com/textures/architecture/stones-walls/stone-blocks/stone-block-wall-pbr-texture-seamless-22408
+
+Anuncio1: https://www.instagram.com/p/CwndgNwqR86/
+Anuncio2: https://www.instagram.com/p/CxLzWVyOS_E/
+Anuncio3: https://www.instagram.com/p/CtZeH0lOPNN/
+Anuncio4: https://www.instagram.com/p/Cx8YP2DhpKb/
+
+Pasto1: https://www.sketchuptextureclub.com/textures/nature-elements/vegetation/green-grass/green-grass-pbr-texture-seamless-22094
+Pasto2: https://www.sketchuptextureclub.com/textures/nature-elements/vegetation/green-grass/green-grass-texture-seamless-21348

@@ -1,0 +1,9 @@
+Referencias de modelos:
+Semáforo:
+https://free3d.com/es/modelo-3d/traffic-light-60477.html
+coche:
+https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-city-vehicle-pack-217344
+señalamiento:
+https://free3d.com/es/modelo-3d/traffic-signs-600332.html
+Espectacular:
+Image by <a href="https://www.freepik.com/3d-model/billboard-002_220.htm">Freepik</a>
